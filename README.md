@@ -3,7 +3,7 @@
 vba password : frank123
 
 --------
-2023/04/04 更新
+2023/04/04 更新 (thanks to chatgpt haha)
 
 1. 另存 txt
 2. NG 第二次刷 QR code 才讓人輸入 PASS
